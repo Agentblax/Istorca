@@ -1,0 +1,3337 @@
+[CustomCards]
+	[    {
+	        "name": "Stand in Formation",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Stand in Formation.png"
+	        }
+	    },
+	    {
+	        "name": "Stampeding Thunderbeast",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "Stampeding Thunderbeast.png"
+	        }
+	    },
+	    {
+	        "name": "Springleaf Caller",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf Spellshaper ",
+	        "image_uris": {
+	            "en": "Springleaf Caller.png"
+	        },
+	        "printed names": {
+	            "en": "Springleaf Caller"
+	        },
+	        "back": {
+	            "name": "Heartbeat of Spring",
+	            "printed_names": {
+	                "en": "Heartbeat of Spring"
+	            },
+	            "image_uris": {
+	                "en": "Heartbeat of Spring.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Spellpierce Mantichora",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Manticore ",
+	        "image_uris": {
+	            "en": "Spellpierce Mantichora.png"
+	        }
+	    },
+	    {
+	        "name": "Spectral Centurion",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Spirit Soldier ",
+	        "image_uris": {
+	            "en": "Spectral Centurion.png"
+	        },
+	        "printed names": {
+	            "en": "Spectral Centurion"
+	        },
+	        "back": {
+	            "name": "Inspiring Presence",
+	            "printed_names": {
+	                "en": "Inspiring Presence"
+	            },
+	            "image_uris": {
+	                "en": "Inspiring Presence.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Soporific Scribe",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "Soporific Scribe.png"
+	        },
+	        "printed names": {
+	            "en": "Soporific Scribe"
+	        },
+	        "back": {
+	            "name": "Drowsy Spell",
+	            "printed_names": {
+	                "en": "Drowsy Spell"
+	            },
+	            "image_uris": {
+	                "en": "Drowsy Spell.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Sophos's Messenger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "Sophos's Messenger.png"
+	        }
+	    },
+	    {
+	        "name": "Sophos, Sage Emperor",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Legendary Planeswalker — Sophos ",
+	        "image_uris": {
+	            "en": "Sophos, Sage Emperor.png"
+	        },
+	        "printed names": {
+	            "en": "Sophos, Sage Emperor"
+	        },
+	        "back": {
+	            "name": "Promise of Glory",
+	            "printed_names": {
+	                "en": "Promise of Glory"
+	            },
+	            "image_uris": {
+	                "en": "Promise of Glory.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Solopsism",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Solopsism.png"
+	        }
+	    },
+	    {
+	        "name": "Dreamless Stoicism",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Dreamless Stoicism.png"
+	        }
+	    },
+	    {
+	        "name": "Fury of the Fallen",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Fury of the Fallen.png"
+	        }
+	    },
+	    {
+	        "name": "Skyscar Cataclysm",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Skyscar Cataclysm.png"
+	        }
+	    },
+	    {
+	        "name": "Skybreaker Alchemist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Viashino Shaman ",
+	        "image_uris": {
+	            "en": "Skybreaker Alchemist.png"
+	        }
+	    },
+	    {
+	        "name": "Skittering Guardian",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Spider ",
+	        "image_uris": {
+	            "en": "Skittering Guardian.png"
+	        }
+	    },
+	    {
+	        "name": "Sinister Sabotage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Sinister Sabotage.png"
+	        }
+	    },
+	    {
+	        "name": "Simple Ideas",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Simple Ideas.png"
+	        }
+	    },
+	    {
+	        "name": "Shieldcharm Leviathan",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Leviathan ",
+	        "image_uris": {
+	            "en": "Shieldcharm Leviathan.png"
+	        }
+	    },
+	    {
+	        "name": "Shed Cowardice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Shed Cowardice.png"
+	        }
+	    },
+	    {
+	        "name": "Shattersea Skyscar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Enchantment Land",
+	        "image_uris": {
+	            "en": "Shattersea Skyscar.png"
+	        }
+	    },
+	    {
+	        "name": "Shattersea Shipsinker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{U}{U}",
+	        "type": "Creature — Octopus ",
+	        "image_uris": {
+	            "en": "Shattersea Shipsinker.png"
+	        }
+	    },
+	    {
+	        "name": "Scavenging Scaeda",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "Scavenging Scaeda.png"
+	        }
+	    },
+	    {
+	        "name": "Scarbeast Tamer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "Scarbeast Tamer.png"
+	        }
+	    },
+	    {
+	        "name": "Sate My Hunger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Sate My Hunger.png"
+	        }
+	    },
+	    {
+	        "name": "Sanction Ring",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Sanction Ring.png"
+	        }
+	    },
+	    {
+	        "name": "Vera's Truthmakers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "Vera's Truthmakers.png"
+	        }
+	    },
+	    {
+	        "name": "Sacred Seance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Sacred Seance.png"
+	        }
+	    },
+	    {
+	        "name": "Sabinus's Statecraft",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Sabinus's Statecraft.png"
+	        },
+	        "printed names": {
+	            "en": "Sabinus's Statecraft"
+	        },
+	        "back": {
+	            "name": "Collective Progress",
+	            "printed_names": {
+	                "en": "Collective Progress"
+	            },
+	            "image_uris": {
+	                "en": "Collective Progress.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Ruined Orrery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "Ruined Orrery.png"
+	        }
+	    },
+	    {
+	        "name": "Rise of Warlords",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Rise of Warlords.png"
+	        }
+	    },
+	    {
+	        "name": "Rightful Heir",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "Rightful Heir.png"
+	        },
+	        "printed names": {
+	            "en": "Rightful Heir"
+	        },
+	        "back": {
+	            "name": "Proof of Lineage",
+	            "printed_names": {
+	                "en": "Proof of Lineage"
+	            },
+	            "image_uris": {
+	                "en": "Proof of Lineage.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Revolutionary Find",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Revolutionary Find.png"
+	        }
+	    },
+	    {
+	        "name": "Revivalist's Awoken",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "Revivalist's Awoken.png"
+	        }
+	    },
+	    {
+	        "name": "Restriction of Literacy",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Restriction of Literacy.png"
+	        }
+	    },
+	    {
+	        "name": "Restart the Journey",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Restart the Journey.png"
+	        }
+	    },
+	    {
+	        "name": "Resounding Legate",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Spirit Spellshaper ",
+	        "image_uris": {
+	            "en": "Resounding Legate.png"
+	        },
+	        "printed names": {
+	            "en": "Resounding Legate"
+	        },
+	        "back": {
+	            "name": "Glorious Anthem",
+	            "printed_names": {
+	                "en": "Glorious Anthem"
+	            },
+	            "image_uris": {
+	                "en": "Glorious Anthem.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Medien Sentinel",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "Medien Sentinel.png"
+	        }
+	    },
+	    {
+	        "name": "Remnant of Honor",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Spirit Knight ",
+	        "image_uris": {
+	            "en": "Remnant of Honor.png"
+	        },
+	        "printed names": {
+	            "en": "Remnant of Honor"
+	        },
+	        "back": {
+	            "name": "Honorable Age",
+	            "printed_names": {
+	                "en": "Honorable Age"
+	            },
+	            "image_uris": {
+	                "en": "Honorable Age.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Regalia of the Last Emperor",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Regalia of the Last Emperor.png"
+	        }
+	    },
+	    {
+	        "name": "Reconquest of Lorka",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Reconquest of Lorka.png"
+	        },
+	        "printed names": {
+	            "en": "Reconquest of Lorka"
+	        },
+	        "back": {
+	            "name": "Failure of the Lorka Project",
+	            "printed_names": {
+	                "en": "Failure of the Lorka Project"
+	            },
+	            "image_uris": {
+	                "en": "Failure of the Lorka Project.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Reclaimed Architecture",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Reclaimed Architecture.png"
+	        }
+	    },
+	    {
+	        "name": "Rash Farmer",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Peasant ",
+	        "image_uris": {
+	            "en": "Rash Farmer.png"
+	        },
+	        "printed names": {
+	            "en": "Rash Farmer"
+	        },
+	        "back": {
+	            "name": "Growth Charm",
+	            "printed_names": {
+	                "en": "Growth Charm"
+	            },
+	            "image_uris": {
+	                "en": "Growth Charm.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Radiant Caladrius",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "Radiant Caladrius.png"
+	        }
+	    },
+	    {
+	        "name": "Firefall Grasper",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "Firefall Grasper.png"
+	        }
+	    },
+	    {
+	        "name": "Psychic Librarian",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Sphinx Spellshaper ",
+	        "image_uris": {
+	            "en": "Psychic Librarian.png"
+	        },
+	        "printed names": {
+	            "en": "Psychic Librarian"
+	        },
+	        "back": {
+	            "name": "Psychic Corrosion",
+	            "printed_names": {
+	                "en": "Psychic Corrosion"
+	            },
+	            "image_uris": {
+	                "en": "Psychic Corrosion.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Protect the Tribe",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Protect the Tribe.png"
+	        }
+	    },
+	    {
+	        "name": "Project Field Researcher",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Vedalken Wizard ",
+	        "image_uris": {
+	            "en": "Project Field Researcher.png"
+	        }
+	    },
+	    {
+	        "name": "Primordial Lighthoof",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Elk Spirit ",
+	        "image_uris": {
+	            "en": "Primordial Lighthoof.png"
+	        }
+	    },
+	    {
+	        "name": "Primordial Dreams",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Primordial Dreams.png"
+	        }
+	    },
+	    {
+	        "name": "ERM Plains1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "ERM Plains1.png"
+	        }
+	    },
+	    {
+	        "name": "ERM Plains2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "ERM Plains2.png"
+	        }
+	    },
+	    {
+	        "name": "Pilgrimage for Holy Lore",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Pilgrimage for Holy Lore.png"
+	        }
+	    },
+	    {
+	        "name": "Persist in Sickness",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Persist in Sickness.png"
+	        }
+	    },
+	    {
+	        "name": "People's Poverty",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "People's Poverty.png"
+	        },
+	        "printed names": {
+	            "en": "People's Poverty"
+	        },
+	        "back": {
+	            "name": "Realm's Grandeur",
+	            "printed_names": {
+	                "en": "Realm's Grandeur"
+	            },
+	            "image_uris": {
+	                "en": "Realm's Grandeur.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Part of the Cycle",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Part of the Cycle.png"
+	        }
+	    },
+	    {
+	        "name": "Parasitic Licid",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Licid ",
+	        "image_uris": {
+	            "en": "Parasitic Licid.png"
+	        },
+	        "printed names": {
+	            "en": "Parasitic Licid"
+	        },
+	        "back": {
+	            "name": "Licid Infection",
+	            "printed_names": {
+	                "en": "Licid Infection"
+	            },
+	            "image_uris": {
+	                "en": "Licid Infection.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Paper Lion",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Cat Elemental ",
+	        "image_uris": {
+	            "en": "Paper Lion.png"
+	        }
+	    },
+	    {
+	        "name": "Paper Guardian",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "Paper Guardian.png"
+	        }
+	    },
+	    {
+	        "name": "Palos, Nurturer of Will",
+	        "rarity": "mythic",
+	        "mana_cost": "{G}{W}{U}",
+	        "type": "Legendary Creature — Spirit ",
+	        "image_uris": {
+	            "en": "Palos, Nurturer of Will.png"
+	        }
+	    },
+	    {
+	        "name": "Pacify the Wrathvale",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Pacify the Wrathvale.png"
+	        },
+	        "printed names": {
+	            "en": "Pacify the Wrathvale"
+	        },
+	        "back": {
+	            "name": "Wrathvale Disturbed",
+	            "printed_names": {
+	                "en": "Wrathvale Disturbed"
+	            },
+	            "image_uris": {
+	                "en": "Wrathvale Disturbed.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Ancestors' Assistance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Ancestors' Assistance.png"
+	        }
+	    },
+	    {
+	        "name": "Overkill",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Overkill.png"
+	        }
+	    },
+	    {
+	        "name": "Outrun the Lightning",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Outrun the Lightning.png"
+	        }
+	    },
+	    {
+	        "name": "Ournus Rider",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "Ournus Rider.png"
+	        }
+	    },
+	    {
+	        "name": "Ournus Logistician",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Creature — Wolf Advisor ",
+	        "image_uris": {
+	            "en": "Ournus Logistician.png"
+	        }
+	    },
+	    {
+	        "name": "Ournus Glorybringer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "Ournus Glorybringer.png"
+	        }
+	    },
+	    {
+	        "name": "Order Will Be Restored",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Order Will Be Restored.png"
+	        }
+	    },
+	    {
+	        "name": "Onslaught Commander",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Creature — Viashino Warrior ",
+	        "image_uris": {
+	            "en": "Onslaught Commander.png"
+	        }
+	    },
+	    {
+	        "name": "Ominous Observer",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Eye Horror ",
+	        "image_uris": {
+	            "en": "Ominous Observer.png"
+	        }
+	    },
+	    {
+	        "name": "Notion Herder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "Notion Herder.png"
+	        }
+	    },
+	    {
+	        "name": "Necromancer's Mark",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Necromancer's Mark.png"
+	        }
+	    },
+	    {
+	        "name": "Nature's Reconquest",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Nature's Reconquest.png"
+	        }
+	    },
+	    {
+	        "name": "My Tormentors Shall Suffer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "My Tormentors Shall Suffer.png"
+	        }
+	    },
+	    {
+	        "name": "ERM Mountain1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "ERM Mountain1.png"
+	        }
+	    },
+	    {
+	        "name": "ERM Mountain2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "ERM Mountain2.png"
+	        }
+	    },
+	    {
+	        "name": "Monopolize Mind",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Monopolize Mind.png"
+	        }
+	    },
+	    {
+	        "name": "Mindbender Sphinx",
+	        "mana_cost": "{5}{U}{U}",
+	        "type": "Creature — Sphinx ",
+	        "image_uris": {
+	            "en": "Mindbender Sphinx.png"
+	        },
+	        "printed names": {
+	            "en": "Mindbender Sphinx"
+	        },
+	        "back": {
+	            "name": "Mind Control",
+	            "printed_names": {
+	                "en": "Mind Control"
+	            },
+	            "image_uris": {
+	                "en": "Mind Control.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Memorized Deflection",
+	        "rarity": "common",
+	        "mana_cost": "{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Memorized Deflection.png"
+	        }
+	    },
+	    {
+	        "name": "Mastery of the Texts",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment  — Aura ",
+	        "image_uris": {
+	            "en": "Mastery of the Texts.png"
+	        }
+	    },
+	    {
+	        "name": "Marcus, Living in the Moment",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Legendary Planeswalker — Marcus ",
+	        "image_uris": {
+	            "en": "Marcus, Living in the Moment.png"
+	        }
+	    },
+	    {
+	        "name": "Marcite Path",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Marcite Path.png"
+	        }
+	    },
+	    {
+	        "name": "Marcite Martyr",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Viashino Wizard ",
+	        "image_uris": {
+	            "en": "Marcite Martyr.png"
+	        }
+	    },
+	    {
+	        "name": "Marcite Falconer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "Marcite Falconer.png"
+	        }
+	    },
+	    {
+	        "name": "Marcite Enkindling",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Marcite Enkindling.png"
+	        }
+	    },
+	    {
+	        "name": "Marcite Arsonist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "Marcite Arsonist.png"
+	        }
+	    },
+	    {
+	        "name": "Make Dispensable",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Make Dispensable.png"
+	        }
+	    },
+	    {
+	        "name": "Greatwolf's Terror",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Greatwolf's Terror.png"
+	        },
+	        "printed names": {
+	            "en": "Greatwolf's Terror"
+	        },
+	        "back": {
+	            "name": "Majesty of the Greatwolf",
+	            "printed_names": {
+	                "en": "Majesty of the Greatwolf"
+	            },
+	            "image_uris": {
+	                "en": "Majesty of the Greatwolf.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Lupakal Silencer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Wolf Warrior ",
+	        "image_uris": {
+	            "en": "Lupakal Silencer.png"
+	        }
+	    },
+	    {
+	        "name": "Lupakal Champion",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Wolf Knight ",
+	        "image_uris": {
+	            "en": "Lupakal Champion.png"
+	        }
+	    },
+	    {
+	        "name": "Luet, Sophan Capital",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "Luet, Sophan Capital.png"
+	        }
+	    },
+	    {
+	        "name": "Lost Wisdom",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Lost Wisdom.png"
+	        }
+	    },
+	    {
+	        "name": "Lorka Sentinel",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Plant Knight ",
+	        "image_uris": {
+	            "en": "Lorka Sentinel.png"
+	        },
+	        "printed names": {
+	            "en": "Lorka Sentinel"
+	        },
+	        "back": {
+	            "name": "Wild Surge",
+	            "printed_names": {
+	                "en": "Wild Surge"
+	            },
+	            "image_uris": {
+	                "en": "Wild Surge.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Lorka Protection",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Lorka Protection.png"
+	        }
+	    },
+	    {
+	        "name": "Lorka Moonwing",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "Lorka Moonwing.png"
+	        }
+	    },
+	    {
+	        "name": "Lorka Monarchblade",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "Lorka Monarchblade.png"
+	        }
+	    },
+	    {
+	        "name": "Lorka Druid",
+	        "mana_cost": "{G}{U}",
+	        "type": "Creature — Elf Shaman ",
+	        "image_uris": {
+	            "en": "Lorka Druid.png"
+	        },
+	        "printed names": {
+	            "en": "Lorka Druid"
+	        },
+	        "back": {
+	            "name": "Ethereal Flutter",
+	            "printed_names": {
+	                "en": "Ethereal Flutter"
+	            },
+	            "image_uris": {
+	                "en": "Ethereal Flutter.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Lorka Canis",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Wolf Plant ",
+	        "image_uris": {
+	            "en": "Lorka Canis.png"
+	        }
+	    },
+	    {
+	        "name": "Long-Dead Infantry",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Spirit Soldier ",
+	        "image_uris": {
+	            "en": "Long-Dead Infantry.png"
+	        }
+	    },
+	    {
+	        "name": "Live With Humility",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Live With Humility.png"
+	        }
+	    },
+	    {
+	        "name": "Lightning Warcharm",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Lightning Warcharm.png"
+	        }
+	    },
+	    {
+	        "name": "Lighthoof Summoner",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "Lighthoof Summoner.png"
+	        },
+	        "printed names": {
+	            "en": "Lighthoof Summoner"
+	        },
+	        "back": {
+	            "name": "Lighthoof Herd",
+	            "printed_names": {
+	                "en": "Lighthoof Herd"
+	            },
+	            "image_uris": {
+	                "en": "Lighthoof Herd.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Lightblood Skyscar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Enchantment Land",
+	        "image_uris": {
+	            "en": "Lightblood Skyscar.png"
+	        }
+	    },
+	    {
+	        "name": "Lightblood Leopard",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "Lightblood Leopard.png"
+	        },
+	        "printed names": {
+	            "en": "Lightblood Leopard"
+	        },
+	        "back": {
+	            "name": "Bloodshed Fever",
+	            "printed_names": {
+	                "en": "Bloodshed Fever"
+	            },
+	            "image_uris": {
+	                "en": "Bloodshed Fever.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Life-Long Bond",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Life-Long Bond.png"
+	        },
+	        "printed names": {
+	            "en": "Life-Long Bond"
+	        },
+	        "back": {
+	            "name": "Watched Back",
+	            "printed_names": {
+	                "en": "Watched Back"
+	            },
+	            "image_uris": {
+	                "en": "Watched Back.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Lich's Ascendance",
+	        "rarity": "mythic",
+	        "mana_cost": "{7}{B}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Lich's Ascendance.png"
+	        }
+	    },
+	    {
+	        "name": "Leaf Gilder",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "Leaf Gilder.png"
+	        }
+	    },
+	    {
+	        "name": "Firefall Skyscar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Enchantment Land",
+	        "image_uris": {
+	            "en": "Firefall Skyscar.png"
+	        }
+	    },
+	    {
+	        "name": "Firefall Feaster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "Firefall Feaster.png"
+	        }
+	    },
+	    {
+	        "name": "Knowledge Gorger",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "Knowledge Gorger.png"
+	        }
+	    },
+	    {
+	        "name": "Skyscar Shepherd",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{W}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "Skyscar Shepherd.png"
+	        }
+	    },
+	    {
+	        "name": "ERM Island1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "ERM Island1.png"
+	        }
+	    },
+	    {
+	        "name": "ERM Island2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "ERM Island2.png"
+	        }
+	    },
+	    {
+	        "name": "Insurmountable Presence",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Insurmountable Presence.png"
+	        }
+	    },
+	    {
+	        "name": "Safe Travel for Sages",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Safe Travel for Sages.png"
+	        },
+	        "printed names": {
+	            "en": "Safe Travel for Sages"
+	        },
+	        "back": {
+	            "name": "Installing Spies",
+	            "printed_names": {
+	                "en": "Installing Spies"
+	            },
+	            "image_uris": {
+	                "en": "Installing Spies.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Inquisitor Executioner",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Wolf Knight ",
+	        "image_uris": {
+	            "en": "Inquisitor Executioner.png"
+	        }
+	    },
+	    {
+	        "name": "Inquisition's Fervor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Inquisition's Fervor.png"
+	        }
+	    },
+	    {
+	        "name": "Imprison",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Imprison.png"
+	        }
+	    },
+	    {
+	        "name": "Imposing Presence",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Imposing Presence.png"
+	        }
+	    },
+	    {
+	        "name": "Imperfect Return",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Imperfect Return.png"
+	        },
+	        "printed names": {
+	            "en": "Imperfect Return"
+	        },
+	        "back": {
+	            "name": "Debilitating Injury",
+	            "printed_names": {
+	                "en": "Debilitating Injury"
+	            },
+	            "image_uris": {
+	                "en": "Debilitating Injury.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Ignoble Betrayal",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Ignoble Betrayal.png"
+	        }
+	    },
+	    {
+	        "name": "I Shall Instill Fear",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "I Shall Instill Fear.png"
+	        }
+	    },
+	    {
+	        "name": "Hungry Ooze",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Ooze ",
+	        "image_uris": {
+	            "en": "Hungry Ooze.png"
+	        }
+	    },
+	    {
+	        "name": "Hungering Scourge",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Horror Spellshaper ",
+	        "image_uris": {
+	            "en": "Hungering Scourge.png"
+	        },
+	        "printed names": {
+	            "en": "Hungering Scourge"
+	        },
+	        "back": {
+	            "name": "Feast of Sanity",
+	            "printed_names": {
+	                "en": "Feast of Sanity"
+	            },
+	            "image_uris": {
+	                "en": "Feast of Sanity.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Hunger for Meaning",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Hunger for Meaning.png"
+	        }
+	    },
+	    {
+	        "name": "Perilous Discovery",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Perilous Discovery.png"
+	        }
+	    },
+	    {
+	        "name": "Healseed Skyscar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Enchantment Land",
+	        "image_uris": {
+	            "en": "Healseed Skyscar.png"
+	        }
+	    },
+	    {
+	        "name": "Purging Sunlight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Purging Sunlight.png"
+	        }
+	    },
+	    {
+	        "name": "Gryph Clutch",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Griffin ",
+	        "image_uris": {
+	            "en": "Gryph Clutch.png"
+	        }
+	    },
+	    {
+	        "name": "Grand Proclamation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Grand Proclamation.png"
+	        }
+	    },
+	    {
+	        "name": "Gloompine Venompaw",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Snake Cat ",
+	        "image_uris": {
+	            "en": "Gloompine Venompaw.png"
+	        }
+	    },
+	    {
+	        "name": "Gloompine Skyscar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Enchantment Land",
+	        "image_uris": {
+	            "en": "Gloompine Skyscar.png"
+	        }
+	    },
+	    {
+	        "name": "Gloompine Scourge",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Horror Soldier ",
+	        "image_uris": {
+	            "en": "Gloompine Scourge.png"
+	        }
+	    },
+	    {
+	        "name": "Gloompine Lurker",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "Gloompine Lurker.png"
+	        },
+	        "printed names": {
+	            "en": "Gloompine Lurker"
+	        },
+	        "back": {
+	            "name": "Scarred Land",
+	            "printed_names": {
+	                "en": "Scarred Land"
+	            },
+	            "image_uris": {
+	                "en": "Scarred Land.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Gloompine Dragongrass",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Plant ",
+	        "image_uris": {
+	            "en": "Gloompine Dragongrass.png"
+	        }
+	    },
+	    {
+	        "name": "Consuming Flames",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Consuming Flames.png"
+	        }
+	    },
+	    {
+	        "name": "Gentle Giant",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Giant Cleric ",
+	        "image_uris": {
+	            "en": "Gentle Giant.png"
+	        },
+	        "printed names": {
+	            "en": "Gentle Giant"
+	        },
+	        "back": {
+	            "name": "Pacifism",
+	            "printed_names": {
+	                "en": "Pacifism"
+	            },
+	            "image_uris": {
+	                "en": "Pacifism.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "ERM Forest1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "ERM Forest1.png"
+	        }
+	    },
+	    {
+	        "name": "ERM Forest2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "ERM Forest2.png"
+	        }
+	    },
+	    {
+	        "name": "Folded Drake",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Drake Elemental ",
+	        "image_uris": {
+	            "en": "Folded Drake.png"
+	        }
+	    },
+	    {
+	        "name": "Fire Up",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Fire Up.png"
+	        }
+	    },
+	    {
+	        "name": "Find Inspiration",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Find Inspiration.png"
+	        }
+	    },
+	    {
+	        "name": "Famine Rats",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Rat ",
+	        "image_uris": {
+	            "en": "Famine Rats.png"
+	        }
+	    },
+	    {
+	        "name": "Fading Chronicle",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "Fading Chronicle.png"
+	        }
+	    },
+	    {
+	        "name": "Everlasting Phoenix",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Phoenix ",
+	        "image_uris": {
+	            "en": "Everlasting Phoenix.png"
+	        },
+	        "printed names": {
+	            "en": "Everlasting Phoenix"
+	        },
+	        "back": {
+	            "name": "Unquenchable Flame",
+	            "printed_names": {
+	                "en": "Unquenchable Flame"
+	            },
+	            "image_uris": {
+	                "en": "Unquenchable Flame.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Ensure My Legacy",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Ensure My Legacy.png"
+	        }
+	    },
+	    {
+	        "name": "Enforced Quiet",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Enforced Quiet.png"
+	        }
+	    },
+	    {
+	        "name": "Endless March",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Endless March.png"
+	        }
+	    },
+	    {
+	        "name": "Scarbeast Hydra",
+	        "mana_cost": "{X}{X}{G}",
+	        "type": "Creature — Hydra ",
+	        "image_uris": {
+	            "en": "Scarbeast Hydra.png"
+	        },
+	        "printed names": {
+	            "en": "Scarbeast Hydra"
+	        },
+	        "back": {
+	            "name": "Unbounded Growth",
+	            "printed_names": {
+	                "en": "Unbounded Growth"
+	            },
+	            "image_uris": {
+	                "en": "Unbounded Growth.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Empire in Decay",
+	        "mana_cost": "{4}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Empire in Decay.png"
+	        },
+	        "printed names": {
+	            "en": "Empire in Decay"
+	        },
+	        "back": {
+	            "name": "Birth of Freedom",
+	            "printed_names": {
+	                "en": "Birth of Freedom"
+	            },
+	            "image_uris": {
+	                "en": "Birth of Freedom.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Elvish Explorer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Scout ",
+	        "image_uris": {
+	            "en": "Elvish Explorer.png"
+	        }
+	    },
+	    {
+	        "name": "Ebora's Bonds of Love",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Ebora's Bonds of Love.png"
+	        },
+	        "printed names": {
+	            "en": "Ebora's Bonds of Love"
+	        },
+	        "back": {
+	            "name": "Ebora's Chains",
+	            "printed_names": {
+	                "en": "Ebora's Chains"
+	            },
+	            "image_uris": {
+	                "en": "Ebora's Chains.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Easy Job",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Easy Job.png"
+	        }
+	    },
+	    {
+	        "name": "Dwindle",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Dwindle.png"
+	        }
+	    },
+	    {
+	        "name": "Duskwastes Skyscar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Enchantment Land",
+	        "image_uris": {
+	            "en": "Duskwastes Skyscar.png"
+	        }
+	    },
+	    {
+	        "name": "Dreams of Flight",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Dreams of Flight.png"
+	        }
+	    },
+	    {
+	        "name": "Dramesz Warrior",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Viashino Warrior ",
+	        "image_uris": {
+	            "en": "Dramesz Warrior.png"
+	        }
+	    },
+	    {
+	        "name": "Dramesz Enchanter",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Viashino Soldier ",
+	        "image_uris": {
+	            "en": "Dramesz Enchanter.png"
+	        },
+	        "printed names": {
+	            "en": "Dramesz Enchanter"
+	        },
+	        "back": {
+	            "name": "Scalefire",
+	            "printed_names": {
+	                "en": "Scalefire"
+	            },
+	            "image_uris": {
+	                "en": "Scalefire.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Dragonhunger Delver",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Viashino Scout ",
+	        "image_uris": {
+	            "en": "Dragonhunger Delver.png"
+	        }
+	    },
+	    {
+	        "name": "Dracogift Dramesz",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Viashino Shaman ",
+	        "image_uris": {
+	            "en": "Dracogift Dramesz.png"
+	        },
+	        "printed names": {
+	            "en": "Dracogift Dramesz"
+	        },
+	        "back": {
+	            "name": "Firebreathing",
+	            "printed_names": {
+	                "en": "Firebreathing"
+	            },
+	            "image_uris": {
+	                "en": "Firebreathing.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Doubled Fervor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Doubled Fervor.png"
+	        }
+	    },
+	    {
+	        "name": "Djinn of Last Wishes",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Djinn ",
+	        "image_uris": {
+	            "en": "Djinn of Last Wishes.png"
+	        }
+	    },
+	    {
+	        "name": "Djinn of Greed",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Djinn ",
+	        "image_uris": {
+	            "en": "Djinn of Greed.png"
+	        }
+	    },
+	    {
+	        "name": "Distracting Curiosity",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Distracting Curiosity.png"
+	        }
+	    },
+	    {
+	        "name": "Disenchant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Disenchant.png"
+	        }
+	    },
+	    {
+	        "name": "Devour",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Devour.png"
+	        }
+	    },
+	    {
+	        "name": "Demonpact Lupakal",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Wolf Warrior ",
+	        "image_uris": {
+	            "en": "Demonpact Lupakal.png"
+	        },
+	        "printed names": {
+	            "en": "Demonpact Lupakal"
+	        },
+	        "back": {
+	            "name": "Unholy Strength",
+	            "printed_names": {
+	                "en": "Unholy Strength"
+	            },
+	            "image_uris": {
+	                "en": "Unholy Strength.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Demonic Confidant",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Dragon Demon ",
+	        "image_uris": {
+	            "en": "Demonic Confidant.png"
+	        },
+	        "printed names": {
+	            "en": "Demonic Confidant"
+	        },
+	        "back": {
+	            "name": "Dark Tutelage",
+	            "printed_names": {
+	                "en": "Dark Tutelage"
+	            },
+	            "image_uris": {
+	                "en": "Dark Tutelage.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Catastrophic Failure",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Catastrophic Failure.png"
+	        }
+	    },
+	    {
+	        "name": "Warcharm Reversal",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Warcharm Reversal.png"
+	        }
+	    },
+	    {
+	        "name": "Deathmonger Demon",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "Deathmonger Demon.png"
+	        }
+	    },
+	    {
+	        "name": "Dawncoast Skyscar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Enchantment Land",
+	        "image_uris": {
+	            "en": "Dawncoast Skyscar.png"
+	        }
+	    },
+	    {
+	        "name": "Dawncoast Crab",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Crab ",
+	        "image_uris": {
+	            "en": "Dawncoast Crab.png"
+	        }
+	    },
+	    {
+	        "name": "Cover in Ash",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Cover in Ash.png"
+	        }
+	    },
+	    {
+	        "name": "Condemner of Memory",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Cleric Knight ",
+	        "image_uris": {
+	            "en": "Condemner of Memory.png"
+	        }
+	    },
+	    {
+	        "name": "Colossal Enigma",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Colossal Enigma.png"
+	        }
+	    },
+	    {
+	        "name": "Collector of Dying Dreams",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "Collector of Dying Dreams.png"
+	        }
+	    },
+	    {
+	        "name": "Cloudpassage Vessel",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "Cloudpassage Vessel.png"
+	        }
+	    },
+	    {
+	        "name": "Cloud Inspiration",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Cloud Inspiration.png"
+	        }
+	    },
+	    {
+	        "name": "Channeler of Revered Spirits",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "Channeler of Revered Spirits.png"
+	        }
+	    },
+	    {
+	        "name": "Caian Stagtrap",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Cat Plant ",
+	        "image_uris": {
+	            "en": "Caian Stagtrap.png"
+	        }
+	    },
+	    {
+	        "name": "Burn the Witch",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Burn the Witch.png"
+	        }
+	    },
+	    {
+	        "name": "Broken Wings",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Broken Wings.png"
+	        }
+	    },
+	    {
+	        "name": "Born-Again Shaman",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "Born-Again Shaman.png"
+	        }
+	    },
+	    {
+	        "name": "Caluso, Guiding Hand",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Legendary Creature — Vedalken Wizard ",
+	        "image_uris": {
+	            "en": "Caluso, Guiding Hand.png"
+	        }
+	    },
+	    {
+	        "name": "Beyond My Limits",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Beyond My Limits.png"
+	        }
+	    },
+	    {
+	        "name": "Become the Idolised",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Become the Idolised.png"
+	        }
+	    },
+	    {
+	        "name": "Be One with Nature",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Be One with Nature.png"
+	        }
+	    },
+	    {
+	        "name": "Basin of Replication",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Basin of Replication.png"
+	        }
+	    },
+	    {
+	        "name": "Basilisk's Gaze",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Basilisk's Gaze.png"
+	        }
+	    },
+	    {
+	        "name": "Avosine Saint",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Spirit Cleric Knight ",
+	        "image_uris": {
+	            "en": "Avosine Saint.png"
+	        }
+	    },
+	    {
+	        "name": "Avosine Paladin",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Cleric Knight ",
+	        "image_uris": {
+	            "en": "Avosine Paladin.png"
+	        },
+	        "printed names": {
+	            "en": "Avosine Paladin"
+	        },
+	        "back": {
+	            "name": "Holy Strength",
+	            "printed_names": {
+	                "en": "Holy Strength"
+	            },
+	            "image_uris": {
+	                "en": "Holy Strength.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Avosine Crusade",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Avosine Crusade.png"
+	        }
+	    },
+	    {
+	        "name": "Avosine Captain",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Cleric Knight ",
+	        "image_uris": {
+	            "en": "Avosine Captain.png"
+	        }
+	    },
+	    {
+	        "name": "Autumnleaf Warrior",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "Autumnleaf Warrior.png"
+	        }
+	    },
+	    {
+	        "name": "Aszila, Skybreaker Chief",
+	        "rarity": "mythic",
+	        "mana_cost": "{B}{R}{G}",
+	        "type": "Legendary Creature — Viashino Warrior ",
+	        "image_uris": {
+	            "en": "Aszila, Skybreaker Chief.png"
+	        }
+	    },
+	    {
+	        "name": "Aristocratic Propagandist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Noble Advisor ",
+	        "image_uris": {
+	            "en": "Aristocratic Propagandist.png"
+	        }
+	    },
+	    {
+	        "name": "Arda Ramund's Choices",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Arda Ramund's Choices.png"
+	        },
+	        "printed names": {
+	            "en": "Arda Ramund's Choices"
+	        },
+	        "back": {
+	            "name": "Ramund Dynasty's Destiny",
+	            "printed_names": {
+	                "en": "Ramund Dynasty's Destiny"
+	            },
+	            "image_uris": {
+	                "en": "Ramund Dynasty's Destiny.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Arcane Visionary",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Spellshaper ",
+	        "image_uris": {
+	            "en": "Arcane Visionary.png"
+	        },
+	        "printed names": {
+	            "en": "Arcane Visionary"
+	        },
+	        "back": {
+	            "name": "Double Vision",
+	            "printed_names": {
+	                "en": "Double Vision"
+	            },
+	            "image_uris": {
+	                "en": "Double Vision.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Arcane Reinventor",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "Arcane Reinventor.png"
+	        }
+	    },
+	    {
+	        "name": "Apex of Slaughter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}{R}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "Apex of Slaughter.png"
+	        }
+	    },
+	    {
+	        "name": "Antediluvian Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Golem ",
+	        "image_uris": {
+	            "en": "Antediluvian Sentinel.png"
+	        }
+	    },
+	    {
+	        "name": "Ancient Formation",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Ancient Formation.png"
+	        }
+	    },
+	    {
+	        "name": "Ancient Butcher",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Giant Zombie Warrior ",
+	        "image_uris": {
+	            "en": "Ancient Butcher.png"
+	        }
+	    },
+	    {
+	        "name": "Aleardo, Boongiver",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Legendary Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "Aleardo, Boongiver.png"
+	        }
+	    },
+	    {
+	        "name": "Age of Stagnation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Age of Stagnation.png"
+	        }
+	    },
+	    {
+	        "name": "Advancing Assault",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Advancing Assault.png"
+	        }
+	    },
+	    {
+	        "name": "I Will Rule",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "I Will Rule.png"
+	        }
+	    },
+	    {
+	        "name": "Stay Out of Harm's Way",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Stay Out of Harm's Way.png"
+	        }
+	    },
+	    {
+	        "name": "Strado Foretells the End",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Strado Foretells the End.png"
+	        },
+	        "printed names": {
+	            "en": "Strado Foretells the End"
+	        },
+	        "back": {
+	            "name": "Strado's New Age",
+	            "printed_names": {
+	                "en": "Strado's New Age"
+	            },
+	            "image_uris": {
+	                "en": "Strado's New Age.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Sudden Banishment",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Sudden Banishment.png"
+	        }
+	    },
+	    {
+	        "name": "Battleground Magpie",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "Battleground Magpie.png"
+	        }
+	    },
+	    {
+	        "name": "ERM Swamp1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "ERM Swamp1.png"
+	        }
+	    },
+	    {
+	        "name": "ERM Swamp2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "ERM Swamp2.png"
+	        }
+	    },
+	    {
+	        "name": "The Search for Aurus",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "The Search for Aurus.png"
+	        },
+	        "printed names": {
+	            "en": "The Search for Aurus"
+	        },
+	        "back": {
+	            "name": "Aurus Overgrown",
+	            "printed_names": {
+	                "en": "Aurus Overgrown"
+	            },
+	            "image_uris": {
+	                "en": "Aurus Overgrown.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "They Will Falter",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "They Will Falter.png"
+	        }
+	    },
+	    {
+	        "name": "Zoubr Adept",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "Zoubr Adept.png"
+	        }
+	    },
+	    {
+	        "name": "Thorny Bogle",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "Thorny Bogle.png"
+	        }
+	    },
+	    {
+	        "name": "Thraebus's Painful Demise",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Thraebus's Painful Demise.png"
+	        },
+	        "printed names": {
+	            "en": "Thraebus's Painful Demise"
+	        },
+	        "back": {
+	            "name": "Thraebus's Final Glory",
+	            "printed_names": {
+	                "en": "Thraebus's Final Glory"
+	            },
+	            "image_uris": {
+	                "en": "Thraebus's Final Glory.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Thus Unto Tyrants",
+	        "rarity": "common",
+	        "mana_cost": "{X}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Thus Unto Tyrants.png"
+	        }
+	    },
+	    {
+	        "name": "Tierne, Revivalist",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Legendary Planeswalker — Tierne ",
+	        "image_uris": {
+	            "en": "Tierne, Revivalist.png"
+	        }
+	    },
+	    {
+	        "name": "Timeworn Gate",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "Timeworn Gate.png"
+	        },
+	        "printed names": {
+	            "en": "Timeworn Gate"
+	        },
+	        "back": {
+	            "name": "Forgotten Lands",
+	            "printed_names": {
+	                "en": "Forgotten Lands"
+	            },
+	            "image_uris": {
+	                "en": "Forgotten Lands.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Tinarius Quickblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "Tinarius Quickblade.png"
+	        }
+	    },
+	    {
+	        "name": "Toast to the Unworthy",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Toast to the Unworthy.png"
+	        }
+	    },
+	    {
+	        "name": "Tomb Wayfinder",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "Tomb Wayfinder.png"
+	        }
+	    },
+	    {
+	        "name": "Medien Sentry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Eye ",
+	        "image_uris": {
+	            "en": "Medien Sentry.png"
+	        }
+	    },
+	    {
+	        "name": "Touch the Sky",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Touch the Sky.png"
+	        }
+	    },
+	    {
+	        "name": "Towering Retiarius",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Giant Warrior ",
+	        "image_uris": {
+	            "en": "Towering Retiarius.png"
+	        },
+	        "printed names": {
+	            "en": "Towering Retiarius"
+	        },
+	        "back": {
+	            "name": "Entanglement",
+	            "printed_names": {
+	                "en": "Entanglement"
+	            },
+	            "image_uris": {
+	                "en": "Entanglement.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Transcribe",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Transcribe.png"
+	        }
+	    },
+	    {
+	        "name": "Trigo, Backburn Tender",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Legendary Creature — Elemental ",
+	        "image_uris": {
+	            "en": "Trigo, Backburn Tender.png"
+	        }
+	    },
+	    {
+	        "name": "Canis Packleader",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Wolf Plant ",
+	        "image_uris": {
+	            "en": "Canis Packleader.png"
+	        }
+	    },
+	    {
+	        "name": "Twistreef Skyscar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Enchantment Land",
+	        "image_uris": {
+	            "en": "Twistreef Skyscar.png"
+	        }
+	    },
+	    {
+	        "name": "Twistreef Snapper",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Crocodile ",
+	        "image_uris": {
+	            "en": "Twistreef Snapper.png"
+	        }
+	    },
+	    {
+	        "name": "Unbridled Growth",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Unbridled Growth.png"
+	        }
+	    },
+	    {
+	        "name": "Varian Animation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "Varian Animation.png"
+	        }
+	    },
+	    {
+	        "name": "Vedalken Arresters",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Vedalken Rogue ",
+	        "image_uris": {
+	            "en": "Vedalken Arresters.png"
+	        }
+	    },
+	    {
+	        "name": "Vedalken Astrologer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Vedalken Wizard ",
+	        "image_uris": {
+	            "en": "Vedalken Astrologer.png"
+	        }
+	    },
+	    {
+	        "name": "Vulpine Idol",
+	        "mana_cost": "{1}",
+	        "type": "Artifact Creature — Fox ",
+	        "image_uris": {
+	            "en": "Vulpine Idol.png"
+	        },
+	        "printed names": {
+	            "en": "Vulpine Idol"
+	        },
+	        "back": {
+	            "name": "Fox's Gift",
+	            "printed_names": {
+	                "en": "Fox's Gift"
+	            },
+	            "image_uris": {
+	                "en": "Fox's Gift.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Ward of the Echeneis",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Ward of the Echeneis.png"
+	        }
+	    },
+	    {
+	        "name": "Warped Canis",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Wolf Mutant ",
+	        "image_uris": {
+	            "en": "Warped Canis.png"
+	        },
+	        "printed names": {
+	            "en": "Warped Canis"
+	        },
+	        "back": {
+	            "name": "Dissection Notes",
+	            "printed_names": {
+	                "en": "Dissection Notes"
+	            },
+	            "image_uris": {
+	                "en": "Dissection Notes.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Waveshroud Drake",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Drake Elemental ",
+	        "image_uris": {
+	            "en": "Waveshroud Drake.png"
+	        }
+	    },
+	    {
+	        "name": "Waveshroud Skyscar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Enchantment Land",
+	        "image_uris": {
+	            "en": "Waveshroud Skyscar.png"
+	        }
+	    },
+	    {
+	        "name": "Will-Driven Revenant",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Skeleton Soldier ",
+	        "image_uris": {
+	            "en": "Will-Driven Revenant.png"
+	        }
+	    },
+	    {
+	        "name": "Winged Watcher",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "Winged Watcher.png"
+	        }
+	    },
+	    {
+	        "name": "Wise Beyond All Years",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Wise Beyond All Years.png"
+	        }
+	    },
+	    {
+	        "name": "Wonder of the World",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Wonder of the World.png"
+	        }
+	    },
+	    {
+	        "name": "Woodsback Strider",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "Woodsback Strider.png"
+	        }
+	    },
+	    {
+	        "name": "Wrathvale Oak",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Treefolk ",
+	        "image_uris": {
+	            "en": "Wrathvale Oak.png"
+	        },
+	        "printed names": {
+	            "en": "Wrathvale Oak"
+	        },
+	        "back": {
+	            "name": "Oakenform",
+	            "printed_names": {
+	                "en": "Oakenform"
+	            },
+	            "image_uris": {
+	                "en": "Oakenform.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Wrathvale Raider",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Viashino Warrior ",
+	        "image_uris": {
+	            "en": "Wrathvale Raider.png"
+	        }
+	    },
+	    {
+	        "name": "Wrathvale Skyscar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Enchantment Land",
+	        "image_uris": {
+	            "en": "Wrathvale Skyscar.png"
+	        }
+	    },
+	    {
+	        "name": "Wrathvale Warden",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Treefolk ",
+	        "image_uris": {
+	            "en": "Wrathvale Warden.png"
+	        }
+	    },
+	    {
+	        "name": "Yotian Siegebreaker",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Elephant ",
+	        "image_uris": {
+	            "en": "Yotian Siegebreaker.png"
+	        }
+	    },
+	    {
+	        "name": "Ceaseless Legate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Creature — Zombie Soldier ",
+	        "image_uris": {
+	            "en": "Ceaseless Legate.png"
+	        }
+	    },
+	    {
+	        "name": "Zoubr Spellthief",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "Zoubr Spellthief.png"
+	        },
+	        "printed names": {
+	            "en": "Zoubr Spellthief"
+	        },
+	        "back": {
+	            "name": "Curiosity",
+	            "printed_names": {
+	                "en": "Curiosity"
+	            },
+	            "image_uris": {
+	                "en": "Curiosity.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Thraeban Mercenary",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "Thraeban Mercenary.png"
+	        }
+	    },
+	    {
+	        "name": "Healseed Stagwolf",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Wolf Elk ",
+	        "image_uris": {
+	            "en": "Healseed Stagwolf.png"
+	        }
+	    },
+	    {
+	        "name": "Cumulus Chrysaora",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Jellyfish Elemental ",
+	        "image_uris": {
+	            "en": "Cumulus Chrysaora.png"
+	        }
+	    },
+	    {
+	        "name": "Avosine Brutaliser",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Wolf Warrior Monk ",
+	        "image_uris": {
+	            "en": "Avosine Brutaliser.png"
+	        }
+	    },
+	    {
+	        "name": "Shining Oppressor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Cleric Knight ",
+	        "image_uris": {
+	            "en": "Shining Oppressor.png"
+	        }
+	    },
+	    {
+	        "name": "The Heresy Wars",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "The Heresy Wars.png"
+	        },
+	        "printed names": {
+	            "en": "The Heresy Wars"
+	        },
+	        "back": {
+	            "name": "The Dogma Wars",
+	            "printed_names": {
+	                "en": "The Dogma Wars"
+	            },
+	            "image_uris": {
+	                "en": "The Dogma Wars.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Vera XIII, Saint-Maker",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Legendary Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "Vera XIII, Saint-Maker.png"
+	        }
+	    },
+	    {
+	        "name": "Avosine Syncretizer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "Avosine Syncretizer.png"
+	        }
+	    },
+	    {
+	        "name": "Tithe Demander",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Cleric Knight ",
+	        "image_uris": {
+	            "en": "Tithe Demander.png"
+	        }
+	    },
+	    {
+	        "name": "Stalking Panther",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "Stalking Panther.png"
+	        }
+	    },
+	    {
+	        "name": "Examiner of Baubles",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "Examiner of Baubles.png"
+	        }
+	    },
+	    {
+	        "name": "Rikmar's Delusion",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Rikmar's Delusion.png"
+	        },
+	        "printed names": {
+	            "en": "Rikmar's Delusion"
+	        },
+	        "back": {
+	            "name": "Rikmar Thwarts His Murder",
+	            "printed_names": {
+	                "en": "Rikmar Thwarts His Murder"
+	            },
+	            "image_uris": {
+	                "en": "Rikmar Thwarts His Murder.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Zoubr Eavesdropper",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "Zoubr Eavesdropper.png"
+	        },
+	        "printed names": {
+	            "en": "Zoubr Eavesdropper"
+	        },
+	        "back": {
+	            "name": "Owl's Hearing",
+	            "printed_names": {
+	                "en": "Owl's Hearing"
+	            },
+	            "image_uris": {
+	                "en": "Owl's Hearing.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Scarwatch Drake",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Drake Elemental ",
+	        "image_uris": {
+	            "en": "Scarwatch Drake.png"
+	        }
+	    },
+	    {
+	        "name": "Uphold Vera's Revival",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Uphold Vera's Revival.png"
+	        },
+	        "printed names": {
+	            "en": "Uphold Vera's Revival"
+	        },
+	        "back": {
+	            "name": "Resist Vera's Undead",
+	            "printed_names": {
+	                "en": "Resist Vera's Undead"
+	            },
+	            "image_uris": {
+	                "en": "Resist Vera's Undead.png"
+	            },
+	            "type": "Enchantment — Saga "
+	        }
+	    },
+	    {
+	        "name": "Parliament Paragon",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Owl ",
+	        "image_uris": {
+	            "en": "Parliament Paragon.png"
+	        }
+	    },
+	    {
+	        "name": "Fulfill Their Dreams",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "Fulfill Their Dreams.png"
+	        }
+	    },
+	    {
+	        "name": "Smilodon Rider",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "Smilodon Rider.png"
+	        }
+	    },
+	    {
+	        "name": "Medie, Skyscar Leyline",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Legendary Enchantment Land",
+	        "image_uris": {
+	            "en": "Medie, Skyscar Leyline.png"
+	        }
+	    },
+	    {
+	        "name": "History",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}",
+	        "type": "Creature — Incarnation ",
+	        "image_uris": {
+	            "en": "History.png"
+	        }
+	    },
+	    {
+	        "name": "Catelina, Antique Keeper",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Legendary Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "Catelina, Antique Keeper.png"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		3 Springleaf Caller
+		3 Spellpierce Mantichora
+		3 Skyscar Cataclysm
+		3 Restriction of Literacy
+		3 Resounding Legate
+		3 Psychic Librarian
+		3 Order Will Be Restored
+		3 My Tormentors Shall Suffer
+		3 Marcite Path
+		3 Lupakal Silencer
+		3 Luet, Sophan Capital
+		3 Lorka Sentinel
+		3 Lorka Monarchblade
+		3 Knowledge Gorger
+		3 Imperfect Return
+		3 Hungry Ooze
+		3 Hungering Scourge
+		3 Consuming Flames
+		3 Folded Drake
+		3 Find Inspiration
+		3 Scarbeast Hydra
+		3 Ebora's Bonds of Love
+		3 Dracogift Dramesz
+		3 Djinn of Greed
+		3 Distracting Curiosity
+		3 Warcharm Reversal
+		3 Deathmonger Demon
+		3 Cover in Ash
+		3 Condemner of Memory
+		3 Cloudpassage Vessel
+		3 Caluso, Guiding Hand
+		3 Become the Idolised
+		3 Basin of Replication
+		3 Basilisk's Gaze
+		3 Avosine Crusade
+		3 Arda Ramund's Choices
+		3 Arcane Visionary
+		3 Arcane Reinventor
+		3 Ancient Formation
+		3 Aleardo, Boongiver
+		3 Strado Foretells the End
+		3 Tomb Wayfinder
+		3 Trigo, Backburn Tender
+		3 Will-Driven Revenant
+		3 Wise Beyond All Years
+		3 Woodsback Strider
+		3 Vera XIII, Saint-Maker
+		3 Tithe Demander
+		3 Stalking Panther
+		3 Examiner of Baubles
+		3 Rikmar's Delusion
+		3 Uphold Vera's Revival
+		3 Parliament Paragon
+		3 Medie, Skyscar Leyline
+		3 Catelina, Antique Keeper
+		1 Sophos, Sage Emperor
+		1 Solopsism
+		1 Medien Sentinel
+		1 Regalia of the Last Emperor
+		1 Primordial Lighthoof
+		1 Palos, Nurturer of Will
+		1 Mindbender Sphinx
+		1 Marcus, Living in the Moment
+		1 Lich's Ascendance
+		1 Everlasting Phoenix
+		1 Demonic Confidant
+		1 Aszila, Skybreaker Chief
+		1 Tierne, Revivalist
+		1 Yotian Siegebreaker
+		1 Scarwatch Drake
+		1 History
+	[UncommonSlot(3)]
+		9 Spectral Centurion
+		9 Sophos's Messenger
+		9 Skybreaker Alchemist
+		9 Sinister Sabotage
+		9 Shed Cowardice
+		9 Shattersea Shipsinker
+		9 Scarbeast Tamer
+		9 Sate My Hunger
+		9 Sanction Ring
+		9 Vera's Truthmakers
+		9 Sacred Seance
+		9 Sabinus's Statecraft
+		9 Ruined Orrery
+		9 Revolutionary Find
+		9 Revivalist's Awoken
+		9 Restart the Journey
+		9 Remnant of Honor
+		9 Reconquest of Lorka
+		9 Radiant Caladrius
+		9 Primordial Dreams
+		9 People's Poverty
+		9 Part of the Cycle
+		9 Parasitic Licid
+		9 Pacify the Wrathvale
+		9 Ancestors' Assistance
+		9 Ournus Logistician
+		9 Ournus Glorybringer
+		9 Onslaught Commander
+		9 Notion Herder
+		9 Monopolize Mind
+		9 Marcite Enkindling
+		9 Marcite Arsonist
+		9 Greatwolf's Terror
+		9 Lorka Moonwing
+		9 Lorka Druid
+		9 Lighthoof Summoner
+		9 Life-Long Bond
+		9 Firefall Feaster
+		9 Skyscar Shepherd
+		9 Safe Travel for Sages
+		9 Purging Sunlight
+		9 Grand Proclamation
+		9 Gloompine Scourge
+		9 Gloompine Dragongrass
+		9 Gentle Giant
+		9 Fire Up
+		9 Enforced Quiet
+		9 Endless March
+		9 Empire in Decay
+		9 Elvish Explorer
+		9 Easy Job
+		9 Dramesz Enchanter
+		9 Doubled Fervor
+		9 Devour
+		9 Catastrophic Failure
+		9 Colossal Enigma
+		9 Channeler of Revered Spirits
+		9 Caian Stagtrap
+		9 Beyond My Limits
+		9 Autumnleaf Warrior
+		9 Apex of Slaughter
+		9 Stay Out of Harm's Way
+		9 Battleground Magpie
+		9 The Search for Aurus
+		9 Thraebus's Painful Demise
+		9 Timeworn Gate
+		9 Tinarius Quickblade
+		9 Medien Sentry
+		9 Towering Retiarius
+		9 Canis Packleader
+		9 Vedalken Arresters
+		9 Vedalken Astrologer
+		9 Wonder of the World
+		9 Wrathvale Raider
+		9 Wrathvale Warden
+		9 Ceaseless Legate
+		9 Zoubr Spellthief
+		9 Shining Oppressor
+		9 The Heresy Wars
+		9 Avosine Syncretizer
+		9 Zoubr Eavesdropper
+		9 Fulfill Their Dreams
+	[CommonSlot(10)]
+		10 Stand in Formation
+		10 Stampeding Thunderbeast
+		10 Soporific Scribe
+		10 Dreamless Stoicism
+		10 Fury of the Fallen
+		10 Skittering Guardian
+		10 Simple Ideas
+		10 Shieldcharm Leviathan
+		10 Shattersea Skyscar
+		10 Scavenging Scaeda
+		10 Rise of Warlords
+		10 Rightful Heir
+		10 Reclaimed Architecture
+		10 Rash Farmer
+		10 Firefall Grasper
+		10 Protect the Tribe
+		10 Project Field Researcher
+		10 ERM Plains1
+		10 ERM Plains2
+		10 Pilgrimage for Holy Lore
+		10 Persist in Sickness
+		10 Paper Lion
+		10 Paper Guardian
+		10 Overkill
+		10 Outrun the Lightning
+		10 Ournus Rider
+		10 Ominous Observer
+		10 Necromancer's Mark
+		10 Nature's Reconquest
+		10 ERM Mountain1
+		10 ERM Mountain2
+		10 Memorized Deflection
+		10 Mastery of the Texts
+		10 Marcite Martyr
+		10 Marcite Falconer
+		10 Make Dispensable
+		10 Lupakal Champion
+		10 Lost Wisdom
+		10 Lorka Protection
+		10 Lorka Canis
+		10 Long-Dead Infantry
+		10 Live With Humility
+		10 Lightning Warcharm
+		10 Lightblood Skyscar
+		10 Lightblood Leopard
+		10 Leaf Gilder
+		10 Firefall Skyscar
+		10 ERM Island1
+		10 ERM Island2
+		10 Insurmountable Presence
+		10 Inquisitor Executioner
+		10 Inquisition's Fervor
+		10 Imprison
+		10 Imposing Presence
+		10 Ignoble Betrayal
+		10 I Shall Instill Fear
+		10 Hunger for Meaning
+		10 Perilous Discovery
+		10 Healseed Skyscar
+		10 Gryph Clutch
+		10 Gloompine Venompaw
+		10 Gloompine Skyscar
+		10 Gloompine Lurker
+		10 ERM Forest1
+		10 ERM Forest2
+		10 Famine Rats
+		10 Fading Chronicle
+		10 Ensure My Legacy
+		10 Dwindle
+		10 Duskwastes Skyscar
+		10 Dreams of Flight
+		10 Dramesz Warrior
+		10 Dragonhunger Delver
+		10 Djinn of Last Wishes
+		10 Disenchant
+		10 Demonpact Lupakal
+		10 Dawncoast Skyscar
+		10 Dawncoast Crab
+		10 Collector of Dying Dreams
+		10 Cloud Inspiration
+		10 Burn the Witch
+		10 Broken Wings
+		10 Born-Again Shaman
+		10 Be One with Nature
+		10 Avosine Saint
+		10 Avosine Paladin
+		10 Avosine Captain
+		10 Aristocratic Propagandist
+		10 Antediluvian Sentinel
+		10 Ancient Butcher
+		10 Age of Stagnation
+		10 Advancing Assault
+		10 I Will Rule
+		10 Sudden Banishment
+		10 ERM Swamp1
+		10 ERM Swamp2
+		10 They Will Falter
+		10 Zoubr Adept
+		10 Thorny Bogle
+		10 Thus Unto Tyrants
+		10 Toast to the Unworthy
+		10 Touch the Sky
+		10 Transcribe
+		10 Twistreef Skyscar
+		10 Twistreef Snapper
+		10 Unbridled Growth
+		10 Varian Animation
+		10 Vulpine Idol
+		10 Ward of the Echeneis
+		10 Warped Canis
+		10 Waveshroud Drake
+		10 Waveshroud Skyscar
+		10 Winged Watcher
+		10 Wrathvale Oak
+		10 Wrathvale Skyscar
+		10 Thraeban Mercenary
+		10 Healseed Stagwolf
+		10 Cumulus Chrysaora
+		10 Avosine Brutaliser
+		10 Smilodon Rider
+	[BasicSlot(1)]
+	
